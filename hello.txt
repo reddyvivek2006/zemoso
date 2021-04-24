@@ -1,2 +1,2 @@
-This is a new file which is made while doing the git katas.
+This is a new file which is changed after being commited.
 
